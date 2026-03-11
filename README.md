@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Olá, eu sou Felipe Dalpiva
 
-<!--
-**felipedalpiva/felipedalpiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação focado em **Backend Java**.
 
-Here are some ideas to get you started:
+# 📚 Atualmente Estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Arquitetura de Software
+- APIs REST
+
+
+---
+
+# 🚀 Tecnologias
+
+- Java
+- Spring Boot
+- Python
+- Django
+- JavaScript
+- Node.js
+- Vue.js
+- Quasar Framework
+- Firebase
+- SQL
+- Git
+
+---
+
+# 📂 Projetos em Destaque
+
+### 🔥 API REST com Firebase
+API desenvolvida em **Node.js** integrada ao **Firebase Firestore** para gerenciamento de dados.
+
+Tecnologias:
+Node.js • Express • Firebase • REST API
+
+---
+
+### 🎨 Aplicação Web com Vue + Quasar
+Interface web moderna desenvolvida com **Vue.js e Quasar Framework** utilizando arquitetura SPA.
+
+Tecnologias:
+Vue.js • Quasar • JavaScript • SCSS
+
+---
+
+# 📫 Contato
+
+LinkedIn: Felipe Dalpiva
+
+Email: Felipedalpivadev@gmail.com
